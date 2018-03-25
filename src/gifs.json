@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "image": "https://images.pexels.com/photos/39678/model-fashion-girl-female-39678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "clicked": false
+
+    },
+    {
+        "id": 2,
+        "image": "https://images.pexels.com/photos/36469/woman-person-flowers-wreaths.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://images.pexels.com/photos/47215/girl-pretty-beautiful-young-47215.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "clicked": false
+
+    },
+    {
+        "id": 4,
+        "image": "https://images.pexels.com/photos/235497/pexels-photo-235497.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "clicked": false
+
+    },
+    {
+        "id": 5,
+        "image": "https://images.pexels.com/photos/247196/pexels-photo-247196.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "clicked": false
+
+    },
+    {
+        "id": 6,
+        "image": "https://images.pexels.com/photos/247200/pexels-photo-247200.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "clicked": false
+
+    },
+    {
+        "id": 7,
+        "image": "https://images.pexels.com/photos/247872/pexels-photo-247872.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+        "clicked": false
+
+    },
+    {
+        "id": 8,
+        "image": "https://images.pexels.com/photos/355072/pexels-photo-355072.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "clicked": false
+
+    },
+    {
+        "id": 9,
+        "image": "https://images.pexels.com/photos/157971/fashion-hat-attractive-elegant-157971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "clicked": false
+
+    },
+    {
+        "id": 10,
+        "image": "https://images.pexels.com/photos/158648/girl-coat-old-coat-brown-coat-158648.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "https://images.pexels.com/photos/206455/pexels-photo-206455.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "https://images.pexels.com/photos/247306/pexels-photo-247306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "clicked": false
+    }
+    
+
+
+]
+
+
