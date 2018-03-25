@@ -19,14 +19,16 @@ class App extends Component {
     const gifOrder = this.state.gifs;
 
     if (clicked) {
+      window.confirm('OOps, you click on this image twice...Would you like to play again ?');
       gifOrder.forEach((img, index) => {
         gifOrder[index].clicked = false;
-
+        
       });
       return this.setState({
         gifs: gifOrder.sort(() => Math.random() - 0.5),
         topScore: this.state.score,
         score: 0
+
       })
     }
 
